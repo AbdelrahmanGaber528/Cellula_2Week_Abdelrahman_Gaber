@@ -3,8 +3,8 @@ import json
 import torch
 import pandas as pd
 import numpy as np
-from text_preprocessing import process_comment
-from model import LSTM
+from .text_preprocessing import process_comment
+from .model import LSTM
 
 
 def load_bundle(folder=None):

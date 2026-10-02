@@ -2,3 +2,9 @@ id,content_type,input_text,file_path,prediction,timestamp
 1,text,kill you,,Toxic,2026-10-02 11:34:24
 2,image,,assets/uploads/1790930068583_Screenshot From 2026-10-01 15-21-47.png,Safe,2026-10-02 11:34:28
 3,text,kill,,"['toxic', 'threat']",2026-10-02 11:47:48
+4,text,"If you post something like that again, you are going to regret it very soon.",,[],2026-10-02 17:48:38
+5,image,,assets/uploads/1790952535199_image.png,[],2026-10-02 17:49:24
+6,text,"You have absolutely no idea what you're talking about, this is completely stupid and useless.",,['toxic'],2026-10-02 17:49:50
+7,text,"You have absolutely no idea what you're talking about, this is completely stupid and useless.",,['toxic'],2026-10-02 17:50:02
+8,text,"""I hope you suffer terribly and everything you've ever built gets completely destroyed.",,['toxic'],2026-10-02 17:52:40
+9,text,"You absolute trash, I swear I will hunt you down and destroy everything you have, you worthless piece of shit!",,"['toxic', 'obscene', 'threat', 'insult']",2026-10-02 17:53:16
