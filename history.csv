@@ -1,1 +1,4 @@
 id,content_type,input_text,file_path,prediction,timestamp
+1,text,kill you,,Toxic,2026-10-02 11:34:24
+2,image,,assets/uploads/1790930068583_Screenshot From 2026-10-01 15-21-47.png,Safe,2026-10-02 11:34:28
+3,text,kill,,"['toxic', 'threat']",2026-10-02 11:47:48
